@@ -11,6 +11,7 @@ This repository contains workshops and labs completed as part of the **FreeCodeC
 ## Completed Work
 
 ### Workshops
+- Major Browsers (1/05/2026)
 
 ### Labs
 
