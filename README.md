@@ -20,6 +20,9 @@ This repository contains workshops and labs completed as part of the **FreeCodeC
 
 ### Labs
 
+- Event Hub (1/06/2026)
+-
+
 ## Notes
 
 - Emphasis on meaning over presentation
