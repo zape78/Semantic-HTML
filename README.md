@@ -16,12 +16,10 @@ This repository contains workshops and labs completed as part of the **FreeCodeC
 - Major Browsers (1/05/2026)
 - Quincy's Job Tips (1/05/2026)
 - Blog Page (1/05/2026)
--
 
 ### Labs
 
 - Event Hub (1/06/2026)
--
 
 ## Notes
 
